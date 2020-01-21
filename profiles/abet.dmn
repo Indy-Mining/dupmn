@@ -1,0 +1,8 @@
+COIN_NAME="AltbetCoin"
+COIN_PATH="/usr/local/bin/"
+COIN_DAEMON="abetd"
+COIN_CLI="abet-cli"
+COIN_FOLDER="/root/.abet"
+COIN_CONFIG="abet.conf"
+RPC_PORT=8322
+COIN_SERVICE="abet.service"
